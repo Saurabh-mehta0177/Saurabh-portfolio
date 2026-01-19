@@ -56,7 +56,7 @@ const Footer = () => {
                         <p className='text-gray-600 dark:text-gray-300'>
                             Passionate Java Developer & Full-Stack Student creating impactful solutions through code.
                         </p>
-                        <div className='flex items-center gap-2 text-gray-500 dark:text-gray-400'>
+                        <div className='flex items-center gap-2 text-gray-500 dark:text-gray-600'>
                             <Coffee className='w-4 h-4' />
                             <span className='text-sm'>Made with passion and ☕</span>
                         </div>
